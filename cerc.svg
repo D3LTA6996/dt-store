@@ -1,0 +1,28 @@
+<svg width="280" height="280" viewBox="0 0 280 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_bd_300_32)">
+<path d="M122.679 110C133.397 103.812 146.603 103.812 157.321 110C168.038 116.188 174.641 127.624 174.641 140C174.641 152.376 168.038 163.812 157.321 170C146.603 176.188 133.397 176.188 122.679 170C111.962 163.812 105.359 152.376 105.359 140C105.359 127.624 111.962 116.188 122.679 110Z" fill="url(#paint0_radial_300_32)" fill-opacity="0.05"/>
+<path d="M123.179 110.866C133.588 104.857 146.412 104.857 156.821 110.866C167.229 116.875 173.641 127.981 173.641 140C173.641 152.019 167.229 163.125 156.821 169.134C146.412 175.143 133.588 175.143 123.179 169.134C112.771 163.125 106.359 152.019 106.359 140C106.359 127.981 112.771 116.875 123.179 110.866Z" stroke="#D90202" stroke-width="2"/>
+</g>
+<path d="M126.454 116.539C134.836 111.699 145.164 111.699 153.546 116.539C161.928 121.378 167.091 130.321 167.091 140C167.091 149.679 161.928 158.622 153.546 163.462C145.164 168.301 134.836 168.301 126.454 163.462C118.072 158.622 112.909 149.679 112.909 140C112.909 130.321 118.072 121.378 126.454 116.539Z" fill="url(#paint1_radial_300_32)" fill-opacity="0.15"/>
+<defs>
+<filter id="filter0_bd_300_32" x="0.358978" y="0.359009" width="279.282" height="279.282" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="7"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_300_32"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="52.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.85098 0 0 0 0 0.00784314 0 0 0 0 0.00784314 0 0 0 0.28 0"/>
+<feBlend mode="normal" in2="effect1_backgroundBlur_300_32" result="effect2_dropShadow_300_32"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_300_32" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_300_32" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(140 140) rotate(90) scale(40)">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<radialGradient id="paint1_radial_300_32" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(140 140) rotate(90) scale(31.2821)">
+<stop stop-color="#D90202" stop-opacity="0"/>
+<stop offset="1" stop-color="#D90202"/>
+</radialGradient>
+</defs>
+</svg>
